@@ -1,0 +1,1 @@
+SELECT * FROM lojinhaMA78.cliente;
